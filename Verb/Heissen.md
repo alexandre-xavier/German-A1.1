@@ -17,8 +17,8 @@ To be called.
 
 ### Beispiele (Examples)
 
-`Wie Heißt du?` (What is your name?)
+`Wie Heißt du?`
 
-`Ich heiße Xavier` (My name is Xavier)
+`Ich heiße Xavier`
 
-`Wie Heißt sie?` (What is her  name? )
+`Wie Heißt sie?`
