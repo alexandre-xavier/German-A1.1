@@ -1,4 +1,8 @@
-# [German A1.1](../README.md#german-a11) > [Verbs](../README.md#verbs) > *sein* (to be)
+[German A1.1](../README.md#german-a11) > [Verbs](../README.md#verbs) > *Sein*
+
+# Sein
+
+To be
 
 ## Präsens (Present) 
 
@@ -9,7 +13,7 @@
 - ihr `seid` (you are)
 - Sie/sie `sind` (formal you/they are)
 
-### Examples
+### Beispiele (Examples)
 
 `Ich bin Alexandre` (I am Alexandre)
 

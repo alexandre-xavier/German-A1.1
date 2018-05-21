@@ -70,8 +70,8 @@ A 5-minute great explanation in English is: https://www.youtube.com/watch?v=uCsO
 - How *_// TODO Explain_*
 ## Verbs
 
-- [To be / Sein](/Verb/sein.md#[german-a1.1](../readme.md#german-a11)->-[verbs](../readme.md#verbs)->-*sein*-(to-be))
-- [To like / mögen](/Verb/mögen.md#[german-a1.1](../readme.md#german-a11)->-[verbs](../readme.md#verbs)->-*mögen*-(to-like))
+- [To be / Sein](/Verb/Sein.md#sein)
+- [To like / mögen](/Verb/Mögen.md#mögen)
 
 ## Articles / Artikel :de:
 

@@ -1,4 +1,8 @@
-# [German A1.1](../README.md#german-a11) > [Verbs](../README.md#verbs) > *mögen* (to like)
+[German A1.1](../README.md#german-a11) > [Verbs](../README.md#verbs) > *Mögen*
+
+# Mögen
+
+To like
 
 ## Present / Präsens
 
@@ -9,7 +13,7 @@
 - ihr `mögt` (you like)
 - Sie, sie `mögen` (you `formal`, they like)
 
-### Examples
+### Beispiele (Examples)
 
 `Julia mag Sport` (Julia likes sports)
 
