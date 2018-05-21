@@ -47,6 +47,7 @@ There is a [great 5-minute explanation](https://www.youtube.com/watch?v=uCsO0XEx
 ## Most common words
 
 - `auch` = `also`
+- `aus` = `from`
 - `genau` = `exactly`, `all right`
 - `gut` = `good`
 - `ja` = `yes`
@@ -79,7 +80,11 @@ There is a [great 5-minute explanation](https://www.youtube.com/watch?v=uCsO0XEx
 ## Verbs
 
 - [Sein](/Verb/Sein.md#sein) (To be)
-- [Mögen](/Verb/Mögen.md#mögen) (To like)
+- [Lernen](/Verb/Lernen.md#lernen) (To learn)
+- [Mögen](/Verb/Moegen.md#mögen) (To like)
+- [Studieren](/Verb/Studieren.md#studieren) (To study)
+- [Kommen](/Verb/Kommen.md#kommen) (To come)
+- [Heißen](/Verb/Heissen.md#heißen) (To be called)
 
 ## Articles
 

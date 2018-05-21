@@ -4,7 +4,7 @@
 
 To like
 
-## Present / Präsens
+## Präsens (Present)
 
 - ich `mag` (I like)
 - du `magst` (you like)
