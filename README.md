@@ -39,7 +39,8 @@ A 5-minute great explanation in English is: https://www.youtube.com/watch?v=uCsO
 
 ## Most common words
 
-- `genau`= `exactly`, `all right`
+- `auch` = `also`
+- `genau` = `exactly`, `all right`
 - `gut` = `good`
 - `Straße`=  `street`
 - `und` = `and`
