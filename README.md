@@ -27,7 +27,13 @@ According to CEFR ([Common European Framework of Reference for Languages](https:
 
 ## Recommended content
 
-[Learn German with Jenny](https://www.youtube.com/channel/UClBrbJXNh2sFxOuvH4o5H9g) is an amazing youtube channel, there is a playlist for [A1](https://www.youtube.com/watch?v=EKEYdvCASwQ&list=PL5QyCnFPRx0GxaFjdAVkx7K9TfEklY4sg) students.
+[Learn German with Jenny](https://www.youtube.com/channel/UClBrbJXNh2sFxOuvH4o5H9g) is an amazing youtube channel, where you may find a [playlist for A1-level students](https://www.youtube.com/watch?v=EKEYdvCASwQ&list=PL5QyCnFPRx0GxaFjdAVkx7K9TfEklY4sg).
+
+[Schubert Verlag](https://www.schubert-verlag.de) provides a [great list of exercises to practice](https://www.schubert-verlag.de/aufgaben/arbeitsblaetter_a1_z/a1_arbeitsblaetter_index_z.htm)
+(content fully in German).
+
+[Dict CC](http://www.dict.cc/) is a good German-English dictionary
+dictionary.
 
 ## Alphabet
 - `ä` = `ae` (`umlaut a`)
@@ -36,8 +42,7 @@ According to CEFR ([Common European Framework of Reference for Languages](https:
 - `ü` = `ue` (`umlaut u`)
 - `ß` = `ss`
 
-
-A 5-minute great explanation in English is: https://www.youtube.com/watch?v=uCsO0XExI2Y
+There is a [great 5-minute explanation](https://www.youtube.com/watch?v=uCsO0XExI2Y) from *Learn German with Jenny*. 
 
 ## Most common words
 
