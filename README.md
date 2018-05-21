@@ -83,7 +83,7 @@ There is a [great 5-minute explanation](https://www.youtube.com/watch?v=uCsO0XEx
 
 ## Articles:
 
-Artikel :de
+Artikel
 
 `der`/`die`/`das`/`die pl.` = `the`   
 
