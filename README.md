@@ -42,6 +42,8 @@ A 5-minute great explanation in English is: https://www.youtube.com/watch?v=uCsO
 - `auch` = `also`
 - `genau` = `exactly`, `all right`
 - `gut` = `good`
+- `ja` = `yes`
+- `nein` = `no`
 - `Straße`=  `street`
 - `und` = `and`
 
@@ -61,28 +63,23 @@ A 5-minute great explanation in English is: https://www.youtube.com/watch?v=uCsO
     - [x] `Viele Grüße`
 
 ## WH Question Words
-- Who
-    - [ ] `Wer` *_// TODO Explain_*
-- Where
-    - [ ] `Wo` *_// TODO Explain_*
-- Why
-    - [ ] `Warum` *_// TODO Explain_*
-- What
-    - [ ] `Was` *_// TODO Explain_*
+- Who = `Wer` *_// TODO Explain_*
+- Where = `Wo` *_// TODO Explain_*
+- Why = `Warum` *_// TODO Explain_*
+- What = `Was` *_// TODO Explain_*
 - Which
     - [ ] `Welcher` (der) *_// TODO Explain_*
     - [ ] `Welche`(die)  *_// TODO Explain_*
     - [ ] `Welches` (das)  *_// TODO Explain_*
     - [ ] `Welche` (die pl.) *_// TODO Explain_*
-- When
-    - [ ] *_// TODO Explain_*
-- How
-    - [ ] *_// TODO Explain_*
+- When *_// TODO Explain_*
+- How *_// TODO Explain_*
 ## Verbs
 
 *_// TODO List_*
 
 - [To be / Sein]()
+- [To like / mögen](/Verb/mögen.md)
 
 ### To be / Sein
 
