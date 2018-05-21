@@ -49,18 +49,12 @@ A 5-minute great explanation in English is: https://www.youtube.com/watch?v=uCsO
 
 ## Greetings
 
-- Hello/Hi
-    - [x] `Hallo`
-- Good morning
-    - [x] `Guten Morgen`
-- Good evening
-    - [x] `Guten Abend`
-- Good Day
-    - [x] `Guten Tag`
-- Have fun
-    - [x] `Viel Spaß`
-- Best regards
-    - [x] `Viele Grüße`
+- `Hallo` (Hello/Hi)
+- `Guten Morgen` (Good morning)
+- `Guten Abend` (Good evening)
+- `Guten Tag` (Good Day)
+- `Viel Spaß` (Have fun)
+- `Viele Grüße` (Best regards)
 
 ## WH Question Words
 - Who = `Wer` *_// TODO Explain_*
@@ -78,8 +72,6 @@ A 5-minute great explanation in English is: https://www.youtube.com/watch?v=uCsO
 
 - [To be / Sein](/Verb/sein.md#[german-a1.1](../readme.md#german-a11)->-[verbs](../readme.md#verbs)->-*sein*-(to-be))
 - [To like / mögen](/Verb/mögen.md#[german-a1.1](../readme.md#german-a11)->-[verbs](../readme.md#verbs)->-*mögen*-(to-like))
-
-### To be / Sein
 
 ## Articles / Artikel :de:
 
