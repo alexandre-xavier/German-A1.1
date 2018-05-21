@@ -36,8 +36,8 @@ According to CEFR ([Common European Framework of Reference for Languages](https:
 dictionary.
 
 ## Alphabet
+
 - `ä` = `ae` (`umlaut a`)
-    - Most of the time, sounds similar to the German `e`
 - `ö` = `oe` (`umlaut o`)
 - `ü` = `ue` (`umlaut u`)
 - `ß` = `ss`
