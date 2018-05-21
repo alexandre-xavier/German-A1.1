@@ -2,10 +2,19 @@
 
 *_// TODO Create index_* :de:
 
+## Recommended content
 
-## Alphabet 
+[Learn German with Jenny](https://www.youtube.com/channel/UClBrbJXNh2sFxOuvH4o5H9g) is an amazing youtube channel, there is a playlist for [A1](https://www.youtube.com/watch?v=EKEYdvCASwQ&list=PL5QyCnFPRx0GxaFjdAVkx7K9TfEklY4sg) students.
 
+## Alphabet
+
+- `ä` = ``
+- `ö` = ``
+- `ü` = ``
 - `ß` = `ss`
+
+
+A 5-minute great explanation in English is: https://www.youtube.com/watch?v=uCsO0XExI2Y
 
 ## Greetings
 
@@ -54,12 +63,12 @@
 
 ## Articles / Artikel :de:
 
-### Der (male)
+### Der (masculine)
 *_// TODO Explain_*
 - The key 
     - [ ] `Der Schlüssel` 
 
-### Die (female)
+### Die (feminine)
 *_// TODO Explain_*
 - The door
     - [ ] `Die Tür`  
