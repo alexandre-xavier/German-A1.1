@@ -81,7 +81,7 @@ There is a [great 5-minute explanation](https://www.youtube.com/watch?v=uCsO0XEx
 - [Sein](/Verb/Sein.md#sein) (To be)
 - [Mögen](/Verb/Mögen.md#mögen) (To like)
 
-## Articles:
+## Articles
 
 Artikel
 
