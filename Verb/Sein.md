@@ -20,3 +20,5 @@ To be
 `Er ist Manolo` (He is Manolo)
 
 `Sie ist Kamila` (She is Kamila)
+
+`Wie ist ihr name?` (What is your name?)
