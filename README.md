@@ -28,14 +28,21 @@ According to CEFR ([Common European Framework of Reference for Languages](https:
 [Learn German with Jenny](https://www.youtube.com/channel/UClBrbJXNh2sFxOuvH4o5H9g) is an amazing youtube channel, there is a playlist for [A1](https://www.youtube.com/watch?v=EKEYdvCASwQ&list=PL5QyCnFPRx0GxaFjdAVkx7K9TfEklY4sg) students.
 
 ## Alphabet
-
-- `ä` = ``
-- `ö` = ``
-- `ü` = ``
+- `ä` = `ae` (`umlaut a`)
+    - Most of the time, sounds similar to the German `e`
+- `ö` = `oe` (`umlaut o`)
+- `ü` = `ue` (`umlaut u`)
 - `ß` = `ss`
 
 
 A 5-minute great explanation in English is: https://www.youtube.com/watch?v=uCsO0XExI2Y
+
+## Most common words
+
+- `genau`= `exactly`, `all right`
+- `gut` = `good`
+- `Straße`=  `street`
+- `und` = `and`
 
 ## Greetings
 
@@ -47,6 +54,10 @@ A 5-minute great explanation in English is: https://www.youtube.com/watch?v=uCsO
     - [x] `Guten Abend`
 - Good Day
     - [x] `Guten Tag`
+- Have fun
+    - [x] `Viel Spaß`
+- Best regards
+    - [x] `Viele Grüße`
 
 ## WH Question Words
 - Who
@@ -69,6 +80,7 @@ A 5-minute great explanation in English is: https://www.youtube.com/watch?v=uCsO
 ## Verbs
 
 *_// TODO List_*
+
 - [To be / Sein]()
 
 ### To be / Sein
