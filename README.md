@@ -76,21 +76,10 @@ A 5-minute great explanation in English is: https://www.youtube.com/watch?v=uCsO
 - How *_// TODO Explain_*
 ## Verbs
 
-*_// TODO List_*
-
-- [To be / Sein]()
-- [To like / mögen](/Verb/mögen.md)
+- [To be / Sein](/Verb/sein.md#[german-a1.1](../readme.md#german-a11)->-[verbs](../readme.md#verbs)->-*sein*-(to-be))
+- [To like / mögen](/Verb/mögen.md#[german-a1.1](../readme.md#german-a11)->-[verbs](../readme.md#verbs)->-*mögen*-(to-like))
 
 ### To be / Sein
-
-- I am Alexandre
-    - [x] `Ich bin Alexandre`
-
-- He is Manolo
-    - [x] `Er ist Manolo`
-
-- She is Kamila
-    - [x] `Sie ist Kamila` 
 
 ## Articles / Artikel :de:
 
