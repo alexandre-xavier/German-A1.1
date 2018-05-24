@@ -26,5 +26,5 @@ I can use simple phrases and sentences to describe where I live and people I kno
 
 ## Writing
 
-- I can write a short, simple postcard, for example sending holiday greetings
+- I can write a short, simple postcard, for example sending holiday greetings.
 - I can fill in forms with personal details, for example entering my name, nationality and address on a hotel registration form.
