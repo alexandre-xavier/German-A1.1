@@ -13,8 +13,7 @@ You may find what one A1-level proficient must know on [Self-assessment grid for
 [Schubert Verlag](https://www.schubert-verlag.de) provides a [great list of exercises to practice](https://www.schubert-verlag.de/aufgaben/arbeitsblaetter_a1_z/a1_arbeitsblaetter_index_z.htm)
 (content fully in German).
 
-[Dict CC](http://www.dict.cc/) is a good German-English dictionary
-dictionary.
+[Dict CC](http://www.dict.cc/) is a good German-English dictionary.
 
 ## Alphabet
 
