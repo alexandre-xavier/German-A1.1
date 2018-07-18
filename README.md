@@ -17,18 +17,17 @@ You may find what one A1-level proficient must know on [Self-assessment grid for
 
 ## Alphabet
 
-There is a great [5-minute explanation](https://www.youtube.com/watch?v=uCsO0XExI2Y) from *Learn German with Jenny* about how to pronounce the alphabet in German.
-
-### Special characters
-
-Apart from the alphabet there are 4 special characters in German.
+### Special Characters
 
 - `ä` = `ae` (`umlaute a`)
 - `ö` = `oe` (`umlaute o`)
 - `ü` = `ue` (`umlaute u`)
 - `ß` = `ss` (`called Eszett (sz)` or `scharfes S (sharp s)`)
 
-There is a 5-minute video from *Learn German with Jenny* about [How to Pronounce The German Umlaute](https://www.youtube.com/watch?v=0fIhlM_OD6A&list=PL5QyCnFPRx0GxaFjdAVkx7K9TfEklY4sg&index=21).
+### 5-minute Explanation Videos
+
+- [The ABC](https://www.youtube.com/watch?v=uCsO0XExI2Y) from *Learn German with Jenny*
+- [How to Pronounce The German Umlaute](https://www.youtube.com/watch?v=0fIhlM_OD6A&list=PL5QyCnFPRx0GxaFjdAVkx7K9TfEklY4sg&index=21) from *Learn German with Jenny*
 
 ## Most common words
 
